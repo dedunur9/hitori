@@ -9,9 +9,9 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188','0']
+global.owner = ['94721207559','0']
 global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
+global.author = 'rukshan'
 global.botname = 'Naze Bot'
 global.listprefix = ['+','!']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
@@ -47,12 +47,12 @@ global.uang = {
 
 global.mess = {
 	key0: 'Apikey mu telah habis silahkan kunjungi\nhttps://my.hitori.pw',
-	owner: 'Fitur Khusus Owner!',
-	admin: 'Fitur Khusus Admin!',
-	botAdmin: 'Bot Bukan Admin!',
+	owner: 'Fitur rukshan Owner!',
+	admin: 'Fitur rukshan Admin!',
+	botAdmin: 'Bot rukshan Admin!',
 	group: 'Gunakan Di Group!',
 	private: 'Gunakan Di Privat Chat!',
-	prem: 'Khusus User Premium!',
+	prem: 'rukshan User Premium!',
 	wait: 'Loading...',
 	error: 'Error!',
 	done: 'Done'
